@@ -1,0 +1,8 @@
+{
+  "min": [1386, -1206, 979],
+  "max": [2536, 281, 1412],
+  "origin": [2064, -582, 1602],
+  "blocks": ["azure_bluet", "cornflower", "dandelion", "grass", "oxeye_daisy", "poppy"],
+  "single": false,
+  "output_name": "foliage_ground"
+}
